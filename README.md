@@ -2,7 +2,7 @@
 
 > Computer Science의 기본 컨셉에 관련된 내용을 코드로 구현합니다.
 
-## 구현 내용
+## 💻 구현 내용
 
 ### 운영체제
 
@@ -14,23 +14,23 @@
   </tr>
   <tr>
     <td rowspan="2">CPU 가상화</td>
-    <td>프로세스 스케줄링 알고리즘 (FCS, SJF, STCF, RR)</td>
+    <td><a href="./Operating-System//01-CPU-Virtualization/1-1-Scheduling-Basic/requirement.md">프로세스 스케줄링 알고리즘 (FCS, SJF, STCF, RR)</a></td>
     <td><a href="#">닉네임 or 이름</a>, <a href="#">닉네임 or 이름</a></td>
   </tr>
   <tr>
-    <td>MLFQ 알고리즘</td>
+    <td><a href="./Operating-System/01-CPU-Virtualization/1-2-MLFQ/requrirement.md">MLFQ 알고리즘</a></td>
     <td><a href="#">닉네임 or 이름</a></td>
   </tr>
   <tr>
     <td rowspan="2">가상 메모리</td>
-    <td>Address Space, base-bound register 기법</td>
+    <td><a href="./Operating-System/02-Memory-Virtualization/1-1-Address-Space/requirement.md">Memory Virtualizatoin Basic (Address Space)</a></td>
     <td><a href="#">닉네임 or 이름</a>, <a href="#">닉네임 or 이름</a></td>
   </tr>
 </table>
 
-### 네트워크
+<!-- ### 네트워크
 
-### 데이터베이스
+### 데이터베이스 -->
 
 ---
 
