@@ -32,15 +32,14 @@
 
 ### 데이터베이스 -->
 
----
-
 ## 📓 작성한 아티클 아카이브
 
 | 분류     | 주제          | 링크                                                                                | 작성자       |
 | -------- | ------------- | ----------------------------------------------------------------------------------- | ------------ |
 | 운영체제 | MLFQ 알고리즘 | [CPU 스케줄링 - Multilevel Feedback Queue](https://wiz4ard.vercel.app/blog/os/mlfq) | @dar-jeeling |
 
----
+## Repository 사용 방법
+- [Git Rule](https://github.com/Memento-Makers/CS-Implementation/wiki/%EB%B8%8C%EB%9E%9C%EC%B9%98-%EA%B7%9C%EC%B9%99---%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80)
 
 ## 참여자
 
