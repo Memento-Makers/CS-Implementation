@@ -2,7 +2,13 @@
 
 > Computer Science의 기본 컨셉에 관련된 내용을 코드로 구현합니다.
 
-## 💻 구현 내용
+## 🔴 Table Of Content
+
+- [스터디 내용](#💻-스터디-내용)
+- [작성한 아티클 아카이브](#📓-작성한-아티클-아카이브)
+- [스터디 Rule](#📄-스터디-rule)
+
+## 💻 스터디 내용
 
 ### 운영체제
 
@@ -38,10 +44,11 @@
 | -------- | ------------- | ----------------------------------------------------------------------------------- | ------------ |
 | 운영체제 | MLFQ 알고리즘 | [CPU 스케줄링 - Multilevel Feedback Queue](https://wiz4ard.vercel.app/blog/os/mlfq) | @dar-jeeling |
 
-## Repository 사용 방법
+## 📄 스터디 Rule
+
 - [Git Rule](https://github.com/Memento-Makers/CS-Implementation/wiki/%EB%B8%8C%EB%9E%9C%EC%B9%98-%EA%B7%9C%EC%B9%99---%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80)
 
-## 참여자
+## 🪩 참여자
 
 <div align="center">
 <br />
